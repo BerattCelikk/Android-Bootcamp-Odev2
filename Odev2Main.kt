@@ -12,4 +12,13 @@ fun main() {
 
     val soru4 = Odev2()
     println("Total : ${soru4.soru4("Merhaba")}")
+
+    val soru5 = Odev2()
+    println("İç Açılar Toplamı : ${soru5.soru5(3)}")
+
+    val soru6 = Odev2()
+    println("Maaş : ${soru6.soru6(171)}")
+
+    val soru7 = Odev2()
+    println("Ücret : ${soru7.soru7(53)}")
 }
